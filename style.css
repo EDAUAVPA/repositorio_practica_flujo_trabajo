@@ -6,3 +6,9 @@ img {
   width: 15rem;
   height: 10rem;
 }
+
+div {
+  width: 45%;
+  display: flex;
+  justify-content: space-between;
+}
